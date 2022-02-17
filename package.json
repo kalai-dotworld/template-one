@@ -1,5 +1,5 @@
 {
-  "name": "template-one",
+  
   "private": true,
   "scripts": {
     "dev": "next dev",
